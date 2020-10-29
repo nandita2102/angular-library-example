@@ -2,6 +2,8 @@
 
 This library was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.6.
 
+This project demonstrate about creating a reusable angular library.
+
 ## Code scaffolding
 
 Run `ng generate component component-name --project na-lib-example` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module --project na-lib-example`.
